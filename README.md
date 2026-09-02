@@ -1,5 +1,7 @@
 # pyolfarve
 
+[![PyPI](https://img.shields.io/pypi/v/olfarve)](https://pypi.org/project/olfarve/)
+
 *Øl farve* ("beer color") renders SRM and EBC beer color values as sRGB
 colors, following the spectral model described by A. J. de Lange, "Color," in
 *Brewing Materials and Processes*, Elsevier, 2016, pp. 199-249.
