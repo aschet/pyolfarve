@@ -19,8 +19,6 @@ values are transformed to sRGB.
 pip install olfarve
 ```
 
-The package requires Python 3.10 or newer and has no runtime dependencies.
-
 ## Usage
 
 ```python
